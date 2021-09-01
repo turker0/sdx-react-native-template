@@ -1,0 +1,8 @@
+{
+  "name": "sdx-template",
+  "version": "0.0.1",
+  "description": "React Native SDx Template",
+  "repository": "https://github.com/oguzturker8/sdx-react-native-template",
+  "author": "Oğuzhan Türker <oguzturker8@gmail.com>",
+  "license": "MIT"
+}
